@@ -1,0 +1,17 @@
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.deps.json
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.runtimeconfig.json
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.runtimeconfig.dev.json
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.dll
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.pdb
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.dll
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.pdb
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.csprojAssemblyReference.cache
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.csproj.CoreCompileInputs.cache
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.AssemblyInfoInputs.cache
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.AssemblyInfo.cs
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.csproj.CopyComplete
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.dll
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI.Tests\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.Tests.pdb

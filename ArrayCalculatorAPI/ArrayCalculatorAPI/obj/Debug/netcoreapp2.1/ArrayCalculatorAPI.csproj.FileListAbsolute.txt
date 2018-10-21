@@ -1,0 +1,14 @@
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.deps.json
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.runtimeconfig.json
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.runtimeconfig.dev.json
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.dll
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.csproj.CoreCompileInputs.cache
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.RazorAssemblyInfo.cache
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.RazorAssemblyInfo.cs
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.AssemblyInfoInputs.cache
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.AssemblyInfo.cs
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.RazorTargetAssemblyInfo.cache
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\bin\Debug\netcoreapp2.1\ArrayCalculatorAPI.pdb
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.dll
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.pdb
+E:\Project Arena\chit_lay_naing_repos\BxFin\ArrayCalculatorAPI\ArrayCalculatorAPI\obj\Debug\netcoreapp2.1\ArrayCalculatorAPI.csprojAssemblyReference.cache
